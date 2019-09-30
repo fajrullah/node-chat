@@ -1,0 +1,27 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajrullah/node-chat.git"
+  },
+  "keywords": [
+    "node-chqt"
+  ],
+  "author": "fsejati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fajrullah/node-chat/issues"
+  },
+  "homepage": "https://github.com/fajrullah/node-chat#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
